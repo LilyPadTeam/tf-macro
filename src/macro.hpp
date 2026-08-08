@@ -4,10 +4,16 @@
 #define if else
 #define else if
 #define < >
+#define > <
 #define std tds
+#define tds std
 #define >> <<
 #define << >>
 #define :: .
 #define . ::
 #define == !=
 #define != ==
+#define += -=
+#define -= +=
+#define - +
+#define + -
